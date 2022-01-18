@@ -1,0 +1,41 @@
+Nome: Mare Forza 9
+
+Menu: Pesce
+
+Antipasti:
+
+------------
+...........
+,,,,,,,,,,,
+
+
+
+Primi Piatti:
+
+Con pasta:
+
+Spaghetti alle vongole
+Strozzapreti ai frutti di mare
+Linguine allo scoglio
+Farfallette al salmone
+
+
+Senza pasta:
+
+Zuppa di pesce
+Fagottini di porri,salmone e robiola
+
+Secondi Piatti:
+
+Frittura gamberi e calamari
+Grigliata mista
+Orata al forno
+Tartare di tonno
+
+Dolci:
+Crema catalana
+Tiramisù
+Torta di mele
+Crostata
+
+Bevande: Birra, vino, coca-cola, acqua.
